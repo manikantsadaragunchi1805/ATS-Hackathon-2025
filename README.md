@@ -1,2 +1,6 @@
-# ATS-Hackathon-2025
-"If Grandma gets it, Everyone Gets It"
+# Cyber Attack → Grandma (Fullstack Demo)
+
+### Run in development:
+```bash
+npm run install:all
+npm run dev
